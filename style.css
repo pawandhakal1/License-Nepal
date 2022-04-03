@@ -1,0 +1,130 @@
+header{
+    background-color: rgb(9, 148, 9);
+    text-align: center;
+    padding: 20px;
+    color: rgb(241, 239, 239);
+    height: 70px;
+
+}
+nav
+{
+    overflow: hidden;
+    background-color: rgb(7, 7, 7);
+
+}
+nav a{
+    color: white;
+    float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+/* this is for about us */
+div.aboutus{
+    margin: 20px;
+    border: 2px solid black;
+    float: left;
+    width: 100px;
+}
+    
+/* this is for picture of about us */
+div.aboutus img{
+    width: 100%;
+    height:auto;
+
+}
+div.aboutus:hover{
+    border: 2px solid red;
+    
+
+}
+div desc{
+    padding: 10px;
+    text-align: center;
+}
+div.index img:hover{
+    border: 1px solid black;
+   
+
+    
+}
+/* trafficlight hover */
+.trafficlighticon i:hover {
+    background-color: rgb(223, 10, 10);
+    
+
+}
+
+
+
+
+input[type=text], select, text area{
+    width: 100px;
+    padding: 5px;
+    border: 1px solid black;
+    margin-bottom: 16px;
+    resize: vertical;
+
+}
+h2:hover{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border: 1px sandybrown;
+    
+
+}
+div.appply
+
+
+
+input[type=submit]{
+    background-color: green;
+    color:blanchedalmond;
+    padding: 10px 10px;
+    cursor: white;
+    border: none;
+    margin: 2px;
+
+    
+
+}
+
+
+input[type=submit]:hover{
+    background-color: #3b5998;
+    color: white;
+}
+nav a:hover
+{
+    background-color:rgb(235, 227, 224);
+    color: rgb(19, 15, 15);
+
+}
+.WELCOME{
+
+  border-left: 100px;
+  border-right: 100px;
+
+    color: blue;
+    padding: 14px 10px;
+
+}
+/* this is heading h1 hover */
+h1:hover    
+{
+    color: rgb(5, 5, 5);
+}
+
+  
+
+
+
+footer{
+    clear: both;
+    background-color: rgb(10, 180, 10);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+
+}
